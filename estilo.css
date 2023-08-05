@@ -212,4 +212,8 @@
     #mobile {
         display: block;
     }
+
+    #abrir-teclado {
+        border: none
+    }
 }
