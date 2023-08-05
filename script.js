@@ -91,3 +91,8 @@ function iniciarJogo() {
         }
     }
 }
+
+function iniciarTeclado() {
+    const input = document.querySelector("#abrir-teclado");
+    input.focus();
+}
