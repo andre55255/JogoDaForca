@@ -214,6 +214,8 @@
     }
 
     #abrir-teclado {
-        border: none
+        border: none;
+        outline: none;
+        font-size: #fff;
     }
 }
