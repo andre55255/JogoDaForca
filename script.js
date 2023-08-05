@@ -94,5 +94,6 @@ function iniciarJogo() {
 
 function iniciarTeclado() {
     const input = document.querySelector("#abrir-teclado");
+    console.log("abriu teclado");
     input.focus();
 }
